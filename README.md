@@ -8,7 +8,7 @@ Understand how browser extensions can pose a threat to online privacy and securi
 - Built-in Extension Manager
 - Google Search for verification
 
-## 🧭 Steps Followed
+##  Steps Followed
 
 1. Opened the Chrome Extension Manager via `chrome://extensions`.
 2. Reviewed the following extensions:
